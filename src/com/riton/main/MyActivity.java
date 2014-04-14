@@ -13,5 +13,6 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         android.widget.Button b = new Button(null);
+        // ma page marche?
     }
 }
