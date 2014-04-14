@@ -1,8 +1,8 @@
 package com.riton.main;
 
 import android.app.Activity;
-import android.os.Bundle;
-import android.widget.Button;
+        import android.os.Bundle;
+        import android.widget.Button;
 
 public class MyActivity extends Activity {
     /**
